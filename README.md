@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-    <img src=https://cdn.discordapp.com/attachments/818586274293612565/868841121441275944/mdyasir_transparent_cropped.png style="height: 150px;" />
+    <img src=https://cdn.discordapp.com/attachments/818586274293612565/868841121441275944/mdyasir_transparent_cropped.png height="150px" />
     <br><br>
 </div>
 
