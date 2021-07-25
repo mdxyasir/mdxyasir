@@ -11,7 +11,7 @@
 - 🔭 I’m working on a discord bot called Bingus
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: I developed a bot for an 8.7k member design community on Discord.
-- 📫 How to reach me: Yasir#1858 on Discord
+- 📫 How to reach me: Yasir#1585 on Discord
 
 ## Languages I Know:
 
@@ -19,7 +19,7 @@
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  height="17.5px" /> Javascript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"  height="17.5px" > HTML/CSS
 
-## What I'm Learning
+## What I'm Learning:
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"  height="17.5px"/> React.js
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"  height="17.5px" /> Typescript
