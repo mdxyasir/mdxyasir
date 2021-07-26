@@ -4,7 +4,7 @@
     <br><br>
 </div>
 
-# 👋 Hi there, Im Yasir.
+# 👋 Hi there, I'm Yasir.
 
 ## About me
 
