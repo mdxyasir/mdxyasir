@@ -28,4 +28,6 @@
 
 ## My GitHub Stats
 
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdxyasir&hide=contribs&title_color=ee433b&text_color=D8DEE9&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ee433b&count_private=true)
+![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdxyasir&hide=contribs&title_color=ee433b&text_color=D8DEE9&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ee433b&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdxyasir&layout=compact&title_color=ee433b&text_color=D8DEE9&bg_color=00000000&hide_border=true&icon_color=ee433b&hide_title=true)
