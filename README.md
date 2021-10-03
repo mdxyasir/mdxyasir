@@ -10,8 +10,8 @@
 
 - 🔭 I’m working on a discord bot called Bingus
 - 🌱 I’m currently learning web development
-- ⚡ Fun fact: I developed a bot for an 9k+ member design community on Discord.
-- 📫 How to reach me: Yasir#1585 on Discord
+- ⚡ Fun fact: I developed a bot for an 12k+ member design community on Discord.
+- 📫 How to reach me: Yasir#8840 on Discord
 
 ## Languages I Know:
 
