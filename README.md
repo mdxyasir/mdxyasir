@@ -13,16 +13,16 @@
 - ⚡ Fun fact: I developed a bot for an 12k+ member design community on Discord.
 - 📫 How to reach me: Yasir#8840 on Discord
 
-## Languages I Know:
+## Skills
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="17.5px"/> Python
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  height="17.5px" /> Javascript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"  height="17.5px" > HTML/CSS
-
-## What I'm Learning:
-
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"  height="17.5px"/> React.js
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"  height="17.5px" /> Typescript
+
+## What I'm Learning
+
+- <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg"  height="17.5px" /> Go 
 
 <br>
 
