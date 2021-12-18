@@ -8,10 +8,10 @@
 
 ## About me
 
-- 🔭 I’m working on a discord bot called Bingus
+- 🔭 I’m working on nothing
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: I developed a bot for an 12k+ member design community on Discord.
-- 📫 How to reach me: Yasir#8840 on Discord
+- 📫 How to reach me: Yasir#0001 on Discord
 
 ## Skills
 
@@ -19,10 +19,6 @@
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  height="17.5px" /> Javascript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"  height="17.5px" > HTML/CSS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"  height="17.5px"/> React.js
-
-## What I'm Learning
-
-- <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg"  height="17.5px" /> Go 
 
 <br>
 
