@@ -9,14 +9,17 @@
 ## About me
 
 - 🔭 I’m working on nothing
+
 - 🌱 I’m currently learning web development
-- ⚡ Fun fact: I developed a bot for an 12k+ member design community on Discord.
-- 📫 How to reach me: Yasir#0001 on Discord
+
+- ⚡ I own a Discord programming server, [Code Code](https://discord.gg/rzzAtnt3fs)
+
+- 📫 You can contact me on [Discord](https://discord.com/users/813725007078752266) or by [email](mailto:hello@mdxyasir.com)
 
 ## Skills
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="17.5px"/> Python
--  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  height="17.5px" /> Javascript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  height="17.5px" /> Javascript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"  height="17.5px" > HTML/CSS
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"  height="17.5px"/> React.js
 
