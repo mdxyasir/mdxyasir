@@ -10,7 +10,7 @@
 
 - 🔭 I’m working on nothing
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning mobile app development
 
 - ⚡ I own a Discord programming server, [Code Code](https://discord.gg/rzzAtnt3fs)
 
