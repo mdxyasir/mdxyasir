@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning mobile app development
 
-- ⚡ I own a Discord programming server, [Code Cave](https://discord.gg/rzzAtnt3fs)
-
 - 📫 You can contact me on [Discord](https://discord.com/users/813725007078752266) or by [email](mailto:hello@mdxyasir.com)
 
 ## Skills
