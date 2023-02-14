@@ -16,6 +16,7 @@
 ![CSS](https://shields.io/badge/css-1a6db1?style=for-the-badge&logoColor=white&logo=css3)
 ![Node.JS](https://shields.io/badge/node.js-339933?style=for-the-badge&logoColor=white&logo=node.js)
 ![React](https://shields.io/badge/react-5ed3f3?style=for-the-badge&logoColor=black&logo=react)
+![React Native](https://shields.io/badge/native-5ed3f3?style=for-the-badge&logoColor=black&logo=react)
 ![PostgreSQL](https://shields.io/badge/PostgreSQL-31648c?style=for-the-badge&logoColor=white&logo=postgresql)
 ![Electron](https://shields.io/badge/electron-9ae3f1?style=for-the-badge&logoColor=black&logo=electron)
 ![Figma](https://shields.io/badge/figma-F24E1E?style=for-the-badge&logoColor=white&logo=figma)
