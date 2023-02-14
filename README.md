@@ -1,30 +1,29 @@
-<div align="center">
-    <br>
-    <img src=https://cdn.discordapp.com/attachments/818586274293612565/868841121441275944/mdyasir_transparent_cropped.png height="150px" />
-    <br><br>
-</div>
+# Hello, I'm Yasir.
 
-# 👋 Hi there, I'm Yasir.
+## 📂 About Me
 
-## About me
+- 🪴 I am currently learning mobile app development
 
-- 🔭 I’m working on nothing
-
-- 🌱 I’m currently learning mobile app development
+- 💻 I own a coding community, [Code Cave](https://discord.gg/533jXy4h4v)
 
 - 📫 You can contact me on [Discord](https://discord.com/users/813725007078752266) or by [email](mailto:hello@mdxyasir.com)
 
-## Skills
+## 📚 Skills & Languages
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="17.5px"/> Python
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"  height="17.5px" /> Javascript
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"  height="17.5px" > HTML/CSS
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"  height="17.5px"/> React.js
+![Python](https://shields.io/badge/python-3470A2?style=for-the-badge&logoColor=white&logo=python)
+![JavaScript](https://shields.io/badge/javascript-edd718?style=for-the-badge&logoColor=black&logo=javascript)
+![HTML](https://shields.io/badge/html-e44d26?style=for-the-badge&logoColor=white&logo=html5)
+![CSS](https://shields.io/badge/css-1a6db1?style=for-the-badge&logoColor=white&logo=css3)
+![Node.JS](https://shields.io/badge/node.js-339933?style=for-the-badge&logoColor=white&logo=node.js)
+![React](https://shields.io/badge/react-5ed3f3?style=for-the-badge&logoColor=black&logo=react)
+![PostgreSQL](https://shields.io/badge/PostgreSQL-31648c?style=for-the-badge&logoColor=white&logo=postgresql)
+![Electron](https://shields.io/badge/electron-9ae3f1?style=for-the-badge&logoColor=black&logo=electron)
+![Figma](https://shields.io/badge/figma-F24E1E?style=for-the-badge&logoColor=white&logo=figma)
+![UI Design](https://shields.io/badge/UI%20Design-black?style=for-the-badge&logoColor=white&logo=materialdesignicons)
 
-<br>
 
-## My GitHub Stats
+## 🔗 Links
 
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdxyasir&hide=contribs&title_color=ee433b&text_color=D8DEE9&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ee433b&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdxyasir&layout=compact&title_color=ee433b&text_color=D8DEE9&bg_color=00000000&hide_border=true&icon_color=ee433b&hide_title=true)
+[![Portfolio](https://shields.io/badge/Portfolio-b10b30?style=for-the-badge&logoColor=white&logo=react)](https://mdxyasir.com)
+[![DeviantArt](https://shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logoColor=white&logo=deviantart)](https://deviantart.com/mdxyasir)
+[![Discord](https://shields.io/badge/discord-5865F2?style=for-the-badge&logoColor=white&logo=discord)](https://discord.com/users/813725007078752266)
